@@ -1,0 +1,11 @@
+#jupyterlab
+Flask
+matplotlib
+plotly
+python-dotenv
+nltk
+numpy
+pandas
+regex
+scikit-learn
+seaborn
